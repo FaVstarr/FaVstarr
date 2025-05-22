@@ -6,7 +6,7 @@ Frontend Web & Mobile Developer
 
 I wrote my first line of code, when I knew that I wanted to be a software developer in 2021, since then I never looked back
 
-* 🌍  I'm based in Abuja, Nigeria
+* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My-Portfolio](http://favour-chamberlain.vercel.app/)
 * ✉️  You can contact me at [favourchamberlain32@gmail.com](mailto:favourchamberlain32@gmail.com)
 * 🧠  I'm learning Express and Node
